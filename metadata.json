@@ -1,0 +1,6 @@
+{
+  "name": "VoltGrid - Electricity Meter Field Capture System",
+  "description": "Enterprise field capture and utility GIS management system for new electricity meter installations, feeder distribution tracking, and technical commissioning audits.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
